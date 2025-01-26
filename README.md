@@ -2,7 +2,7 @@
 <h3 align="center">Web Developer & Software Engineer | Passionate about React & Next.js</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding GIF">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding GIF" style="border-radius: 10px;">
 </p>
 
 ---
