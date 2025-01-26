@@ -42,13 +42,13 @@
 
 ### 🌐 **Connect with Me**
 <p align="center">
-  <a href="[https://www.linkedin.com/in/aimtzy](https://www.linkedin.com/in/muhamad-rizki-ardiansyah-a79067311/)">
+  <a href="https://www.linkedin.com/in/muhamad-rizki-ardiansyah-a79067311/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://github.com/AimTzy-cloud">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="[https://twitter.com/aimtzy](https://x.com/tzy_aim81917)">
+  <a href="https://x.com/tzy_aim81917">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
   <a href="mailto:aimtzy18@gmail.com">
@@ -59,7 +59,7 @@
 ---
 
 ### 📌 **Featured Projects**
-- 🔹 [Portfolio Website]([https://github.com/aim-tzy/portfolio](https://aimtzy-cloud.github.io/portfolio-bootstrap/))  
+- 🔹 [Portfolio Website](https://aimtzy-cloud.github.io/portfolio-bootstrap/)  
 - 🔹 [React Native App](https://github.com/aim-tzy/react-native-app)  
 - 🔹 [Telegram Bot for Students](https://github.com/aim-tzy/telegram-bot)  
 
