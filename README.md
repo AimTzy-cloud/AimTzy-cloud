@@ -64,7 +64,7 @@
 ### 📌 **Featured Projects**
 - 🔹 [Portfolio Website](https://aimtzy-cloud.github.io/portfolio-bootstrap/)  
 - 🔹 [React Native App](https://github.com/aim-tzy/react-native-app)  
-- 🔹 [Telegram Bot for Students](https://github.com/aim-tzy/telegram-bot)  
+- 🔹 [Telegram Bot for Students](https://t.me/AirdropMoneyTzy_bot)  
 
 ---
 
