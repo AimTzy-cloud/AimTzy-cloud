@@ -1,20 +1,20 @@
-<h1 align="center">Hi there, I'm Aim! 👋</h1>
-<h3 align="center">Full-Stack Web Developer & Software Engineer | Passionate about React & Next.js</h3>
+<h1 align="center">Halo, saya Aim! 👋</h1>
+<h3 align="center">Full-Stack Web Developer & Software Engineer | Pencinta React & Next.js</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding GIF" style="border-radius: 10px;">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="GIF Coding" style="border-radius: 10px;">
 </p>
 
 ---
 
-### 🚀 **About Me**
-I'm a **Full-Stack Web Developer** and **Software Engineer** with a passion for creating scalable web applications. I specialize in both **Frontend** and **Backend Development**, focusing on building efficient, dynamic user experiences.  
-Currently, I'm diving deeper into **Advanced JavaScript**, **System Design**, and improving my skills in **React**, **Next.js**, and **Node.js**.
+### 🚀 **Tentang Saya**
+Saya adalah **Full-Stack Web Developer** dan **Software Engineer** yang berfokus pada pembuatan aplikasi web yang scalable. Saya berpengalaman dalam pengembangan **Frontend** dan **Backend**, dengan fokus pada menciptakan pengalaman pengguna yang dinamis dan efisien.  
+Saat ini, saya sedang mendalami **JavaScript Lanjutan**, **System Design**, serta meningkatkan keterampilan saya di **React**, **Next.js**, dan **Node.js**.
 
-- 👨‍💻 Passionate about **Frontend & Backend Development**  
-- 🛠️ Experienced with **React, Next.js, Node.js, Express, MongoDB**, and **React Native**  
-- 🌱 Always learning new technologies like **GraphQL** and **Docker**  
-- 📧 Feel free to reach me at: **[aimtzy18@gmail.com](mailto:aimtzy18@gmail.com)**  
+- 👨‍💻 Pencinta **Frontend & Backend Development**  
+- 🛠️ Berpengalaman dengan **React, Next.js, Node.js, Express, MongoDB**, dan **React Native**  
+- 🌱 Selalu belajar teknologi baru seperti **GraphQL** dan **Docker**  
+- 📧 Jangan ragu untuk menghubungi saya di: **[aimtzy18@gmail.com](mailto:aimtzy18@gmail.com)**  
 
 ---
 
@@ -35,30 +35,30 @@ Currently, I'm diving deeper into **Advanced JavaScript**, **System Design**, an
 
 ---
 
-### 📊 **GitHub Stats**
+### 📊 **Statistik GitHub**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AimTzy-cloud&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AimTzy-cloud&show_icons=true&theme=radical" alt="Statistik GitHub" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AimTzy-cloud&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AimTzy-cloud&layout=compact&theme=radical" alt="Bahasa yang Sering Digunakan" />
 </p>
 
 ---
 
-### 📌 **Featured Projects**
-Here are some of my exciting projects that showcase my skills and creativity:
-- 🔹 **[Portfolio Website](https://aimtzy-cloud.github.io/portfolio-bootstrap/)**  
-  A personal website showcasing my work and skills.
-- 🔹 **[React Native App](https://github.com/aim-tzy/react-native-app)**  
-  A mobile application built with React Native, designed to work seamlessly on both iOS and Android.
-- 🔹 **[Telegram Bot for Students](https://t.me/AirdropMoneyTzy_bot)**  
-  A Telegram bot that provides useful resources and helps students stay updated on assignments.
+### 📌 **Proyek Unggulan**
+Berikut beberapa proyek menarik saya yang menunjukkan keterampilan dan kreativitas saya:
+- 🔹 **[Website Portofolio](https://aimtzy-cloud.github.io/portfolio-bootstrap/)**  
+  Website pribadi yang menunjukkan pekerjaan dan keterampilan saya.
+- 🔹 **[Aplikasi React Native](https://github.com/aim-tzy/react-native-app)**  
+  Aplikasi mobile yang dibangun dengan React Native, dirancang untuk bekerja mulus di iOS dan Android.
+- 🔹 **[Bot Telegram untuk Siswa](https://t.me/AirdropMoneyTzy_bot)**  
+  Bot Telegram yang menyediakan sumber daya berguna dan membantu siswa tetap terupdate dengan tugas.
 
 ---
 
-### 🌐 **Connect with Me**
-Let's connect and collaborate on amazing projects!
+### 🌐 **Hubungi Saya**
+Mari terhubung dan berkolaborasi dalam proyek luar biasa!
 <p align="center">
   <a href="https://www.linkedin.com/in/muhamad-rizki-ardiansyah-a79067311/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -76,4 +76,4 @@ Let's connect and collaborate on amazing projects!
 
 ---
 
-🚀 _Let's build something amazing together!_  
+🚀 _Mari bangun sesuatu yang luar biasa bersama!_  
